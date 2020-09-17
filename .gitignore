@@ -1,0 +1,7 @@
+bin
+gtest
+local
+*.out
+obj
+*build*
+*data*
